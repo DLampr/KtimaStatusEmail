@@ -1,4 +1,4 @@
-# KtimaStatusEmail
+# Ktimatologio Status Email Notification
 Sends a notification email about the status of the Greek Cadastre in a specific area.
 
 We use requests and BeautifulSoup libraries to get the information we need from the official Greek Cadastre website. The smtplib library handles the sending of the email.
