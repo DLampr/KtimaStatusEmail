@@ -12,6 +12,6 @@ Google is not allowing us to log in via smtplib because it has flagged this sort
 
 Once that is set, it should work.
 
-We can create a batch file that runs every week or daily via Task Scheduler on Windows, so that we always stay tuned about the status. Of course we could easily send this email to multiple emails, enrich the body of the email with other information etc.
+We can create a batch file that runs every week or daily via Task Scheduler on Windows, so that we always stay tuned about the status. Of course we could easily send this email to multiple recipients, enrich the body of the email with other information etc.
 
 See the example .jpgs to get an idea of how it works. 
